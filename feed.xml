@@ -51,7 +51,7 @@
     <MixBase>Акриловая</MixBase>
     <OutdoorUsage>Да</OutdoorUsage>
     <PriceType>Килограммы</PriceType>
-    <Weight>15</Weight>
+    <Weight>15 кг</Weight>
     <Price>18500</Price>
     <MinSaleQuantity>1</MinSaleQuantity>
     <Address>Санкт-Петербург, Уральская ул., 13А</Address>
@@ -104,7 +104,7 @@
     <MixBase>Акриловая</MixBase>
     <OutdoorUsage>Да</OutdoorUsage>
     <PriceType>Килограммы</PriceType>
-    <Weight>15</Weight>
+    <Weight>15 кг</Weight>
     <Price>18500</Price>
     <MinSaleQuantity>1</MinSaleQuantity>
     <Address>Санкт-Петербург, Уральская ул., 13А</Address>
