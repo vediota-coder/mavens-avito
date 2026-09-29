@@ -55,7 +55,8 @@
     <Price>18500</Price>
     <MinSaleQuantity>1</MinSaleQuantity>
     <Address>Санкт-Петербург, Уральская ул., 13А</Address>
-    <Delivery>Выключена</Delivery>
+    <Delivery><Option>ПВЗ</Option><Option>Курьер</Option><Option>Свой партнер ПЭК</Option></Delivery>
+    <WeightForDelivery>16</WeightForDelivery>
   </Ad>
   <Ad>
     <Id>T02-spb</Id>
@@ -108,7 +109,8 @@
     <Price>18500</Price>
     <MinSaleQuantity>1</MinSaleQuantity>
     <Address>Санкт-Петербург, Уральская ул., 13А</Address>
-    <Delivery>Выключена</Delivery>
+    <Delivery><Option>ПВЗ</Option><Option>Курьер</Option><Option>Свой партнер ПЭК</Option></Delivery>
+    <WeightForDelivery>16</WeightForDelivery>
   </Ad>
   <Ad>
     <Id>T03-spb</Id>
@@ -161,7 +163,8 @@
     <Price>18500</Price>
     <MinSaleQuantity>1</MinSaleQuantity>
     <Address>Санкт-Петербург, Уральская ул., 13А</Address>
-    <Delivery>Выключена</Delivery>
+    <Delivery><Option>ПВЗ</Option><Option>Курьер</Option><Option>Свой партнер ПЭК</Option></Delivery>
+    <WeightForDelivery>16</WeightForDelivery>
   </Ad>
   <Ad>
     <Id>T04-spb</Id>
@@ -215,7 +218,8 @@
     <Price>18500</Price>
     <MinSaleQuantity>1</MinSaleQuantity>
     <Address>Санкт-Петербург, Уральская ул., 13А</Address>
-    <Delivery>Выключена</Delivery>
+    <Delivery><Option>ПВЗ</Option><Option>Курьер</Option><Option>Свой партнер ПЭК</Option></Delivery>
+    <WeightForDelivery>16</WeightForDelivery>
   </Ad>
   <Ad>
     <Id>T05-spb</Id>
@@ -268,7 +272,8 @@
     <Price>18500</Price>
     <MinSaleQuantity>1</MinSaleQuantity>
     <Address>Санкт-Петербург, Уральская ул., 13А</Address>
-    <Delivery>Выключена</Delivery>
+    <Delivery><Option>ПВЗ</Option><Option>Курьер</Option><Option>Свой партнер ПЭК</Option></Delivery>
+    <WeightForDelivery>16</WeightForDelivery>
   </Ad>
   <Ad>
     <Id>T09-spb</Id>
@@ -316,7 +321,8 @@
     <Price>18500</Price>
     <MinSaleQuantity>1</MinSaleQuantity>
     <Address>Санкт-Петербург, Уральская ул., 13А</Address>
-    <Delivery>Выключена</Delivery>
+    <Delivery><Option>ПВЗ</Option><Option>Курьер</Option><Option>Свой партнер ПЭК</Option></Delivery>
+    <WeightForDelivery>16</WeightForDelivery>
   </Ad>
   <Ad>
     <Id>T06-spb</Id>
@@ -368,7 +374,8 @@
     <Price>18500</Price>
     <MinSaleQuantity>1</MinSaleQuantity>
     <Address>Санкт-Петербург, Уральская ул., 13А</Address>
-    <Delivery>Выключена</Delivery>
+    <Delivery><Option>ПВЗ</Option><Option>Курьер</Option><Option>Свой партнер ПЭК</Option></Delivery>
+    <WeightForDelivery>16</WeightForDelivery>
   </Ad>
   <Ad>
     <Id>T07-spb</Id>
@@ -416,7 +423,8 @@
     <Price>18500</Price>
     <MinSaleQuantity>1</MinSaleQuantity>
     <Address>Санкт-Петербург, Уральская ул., 13А</Address>
-    <Delivery>Выключена</Delivery>
+    <Delivery><Option>ПВЗ</Option><Option>Курьер</Option><Option>Свой партнер ПЭК</Option></Delivery>
+    <WeightForDelivery>16</WeightForDelivery>
   </Ad>
   <Ad>
     <Id>T08-spb</Id>
@@ -464,7 +472,8 @@
     <Price>18500</Price>
     <MinSaleQuantity>1</MinSaleQuantity>
     <Address>Санкт-Петербург, Уральская ул., 13А</Address>
-    <Delivery>Выключена</Delivery>
+    <Delivery><Option>ПВЗ</Option><Option>Курьер</Option><Option>Свой партнер ПЭК</Option></Delivery>
+    <WeightForDelivery>16</WeightForDelivery>
   </Ad>
   <Ad>
     <Id>S3-spb</Id>
@@ -511,6 +520,7 @@ Primer, грунт 1 л: 2 200 ₽. Fondo F, подложка 5 кг: 5 500 ₽.
     <Price>18500</Price>
     <MinSaleQuantity>1</MinSaleQuantity>
     <Address>Санкт-Петербург, Уральская ул., 13А</Address>
-    <Delivery>Выключена</Delivery>
+    <Delivery><Option>ПВЗ</Option><Option>Курьер</Option><Option>Свой партнер ПЭК</Option></Delivery>
+    <WeightForDelivery>16</WeightForDelivery>
   </Ad>
 </Ads>
