@@ -1,8 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
+    <Id>T01-spb</Id>
+    <Title>Декоративная штукатурка травертин. Гарантия, сроки</Title>
+    <Description><![CDATA[📩 Пришлите в чат фото стены и площадь: бесплатно посчитаем, сколько вёдер нужно и сколько стоит вся система. Нужен мастер: нанесём под ключ от 1 200 ₽ за м².
+
+1 234 руб./кг, ведро 15 кг = 18 500 руб., хватает на 12-23 кв. м в два слоя
+
+🛡 Гарантия на материал 10 лет, срок службы от 15 лет. Работаем по договору, гарантия на работу 2 года.
+
+⏱ Сроки: неколерованный материал заберёте в день заказа, колерованный по готовности, срок скажем в чате. Комнату около 20 м² стен наносим обычно за 3-5 рабочих дней с учётом сушки.
+
+🪨 Штукатурка под травертин Mavens Elastico: фактура натурального камня, которая не боится воды и моется губкой. Производитель MAVENS, шоурум в Санкт-Петербурге на Уральской, 13А.
+
+💰 Материал от 1 000 ₽ за м² стены, в среднем 1 800 ₽. Ведро 15 кг закрывает 12-23 м² в два слоя. Выкрасы и образцы в подарок при заказе.
+
+✅ Почему Elastico
+• Наносится прямо на черновую штукатурку в 3 этапа, без финишной шпаклёвки и шлифовки
+• Эластичная до 1,5 мм: меньше риск волосяных трещин при усадке дома
+• Для ванной и кухни без пропитки: водопоглощение 0,05 %
+• Моется влажной губкой
+• Класс пожарной опасности КМ1, для стен внутри и снаружи
+
+🎨 Любой цвет
+Колеруем в своей лаборатории по RAL, NCS или вашему образцу. Цвет в массе, красить поверх не нужно. По акции колеруем бесплатно.
+
+🧰 Система MAVENS
+1️⃣ Primer, грунт 1 л: 2 200 ₽
+2️⃣ Fondo F, подложка 5 кг: 5 500 ₽
+3️⃣ Elastico, фактура 15 кг: 18 500 ₽
+4️⃣ Finitura Opaco, защита 3 л: 5 500 ₽, по желанию
+
+👷 Мастера в Санкт-Петербурге и Москве, опыт от 10 лет, в Петербурге в штате 12 человек. Материал и работа из одних рук.
+
+📍 Шоурум: Санкт-Петербург, Уральская ул., 13А. За 40 минут покажем образцы: проверите эластичность и как отмываются пятна. По Петербургу и в Москву отправляем транспортной компанией.
+
+📞 Звоните или пишите в чат: ответим и посчитаем расход под вашу стену.]]></Description>
+    <Images><Image url="https://vediota-coder.github.io/mavens-avito/listings/01_travertin_spb/slides/01_cover_kg.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/01_travertin_spb/slides/02_macro.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/01_travertin_spb/slides/03_object.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/01_travertin_spb/slides/04_bathroom.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/01_travertin_spb/slides/05_bedroom.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/01_travertin_spb/slides/06_tints.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/01_travertin_spb/slides/07_kitchen.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/01_travertin_spb/slides/08_vs_paint.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/01_travertin_spb/slides/09_system.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/01_travertin_spb/slides/10_pack.jpg"/></Images>
+    <Category>Ремонт и строительство</Category>
+    <GoodsType>Стройматериалы</GoodsType>
+    <GoodsSubType>Строительные смеси</GoodsSubType>
+    <MixesType>Штукатурка</MixesType>
+    <AdType>Товар от производителя</AdType>
+    <Condition>Новое</Condition>
+    <Availability>В наличии</Availability>
+    <Brand>Mavens</Brand>
+    <Series>Elastico</Series>
+    <Decorative>Да</Decorative>
+    <MixBase>Акриловая</MixBase>
+    <OutdoorUsage>Да</OutdoorUsage>
+    <PriceType>Килограммы</PriceType>
+    <Weight>1 кг</Weight>
+    <Price>1234</Price>
+    <MinSaleQuantity>15</MinSaleQuantity>
+    <Address>Санкт-Петербург, Уральская ул., 13А</Address>
+    <Delivery><Option>Выключена</Option></Delivery>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <VideoURL>https://rutube.ru/video/430dda085a93e809910076718cc5bb68/</VideoURL>
+  </Ad>
+  <Ad>
     <Id>T02-spb</Id>
-    <Title>Декоративная штукатурка под микроцемент и бетон</Title>
+    <Title>Декоративная штукатурка микроцемент. Гарантия</Title>
     <Description><![CDATA[📩 Пришлите в чат фото стены и площадь: бесплатно посчитаем, сколько вёдер нужно и сколько стоит вся система. Нужен мастер: нанесём под ключ от 1 200 ₽ за м².
 
 1 234 руб./кг, ведро 15 кг = 18 500 руб., хватает на 12-23 кв. м в два слоя
@@ -58,68 +116,11 @@
     <VideoURL>https://rutube.ru/video/430dda085a93e809910076718cc5bb68/</VideoURL>
   </Ad>
   <Ad>
-    <Id>T05-spb</Id>
-    <Title>Декоративная штукатурка под камень, рельефная</Title>
-    <Description><![CDATA[📩 Пришлите в чат фото стены и площадь: бесплатно посчитаем расход рельефа и цену всей системы. Рельеф под камень лучше доверить мастеру: нанесём под ключ от 1 200 ₽ за м².
-
-1 234 руб./кг, ведро 15 кг = 18 500 руб., площадь на ведро считаем под вашу стену
-
-🏭 Производитель MAVENS в Санкт-Петербурге, шоурум на Уральской, 13А. Декоративная штукатурка под камень Mavens Elastico: рельефные слои, как у природной скалы, с прожилками охры и графита. Неколерованный материал заберёте в день заказа.
-
-💰 Ведро 15 кг стоит 18 500 ₽. Для глубокого рельефа расход выше, чем для гладких фактур, поэтому цену за м² считаем под вашу стену. Выкрасы и образцы в подарок при заказе.
-
-✅ Почему рельеф Elastico, а не камень
-• Без плитки и швов: не нужны клей, подрезка и усиление основания
-• Живая стена: в боковом свете слои дают глубокие тени, как у скалы
-• Эластичная до 1,5 мм: меньше риск волосяных трещин при усадке дома
-• Влагостойкая и моющаяся: пыль снимается влажной губкой
-• Гарантия на материал 10 лет, класс пожарной опасности КМ1
-
-🏛 Где применяют
-Акцентная стена в гостиной, стена за изголовьем кровати, зона камина, холл и лестница. В коммерции: рестораны, лобби, бутики, на фото наш объект.
-
-🎨 Любой оттенок
-Колеруем в своей лаборатории по RAL, NCS или вашему образцу: графит с охрой, песчаник, серый камень, терракота. По акции колеруем бесплатно.
-
-🧰 Система MAVENS
-1️⃣ Primer, грунт 1 л: 2 200 ₽
-2️⃣ Fondo F, подложка 5 кг: 5 500 ₽
-3️⃣ Elastico, фактура 15 кг: 18 500 ₽
-4️⃣ Finitura Opaco, защита 3 л: 5 500 ₽, по желанию
-
-👷 Мастера в Санкт-Петербурге и Москве, опыт от 10 лет, в Петербурге в штате 12 человек. Материал и работа из одних рук.
-
-📍 Шоурум: Санкт-Петербург, Уральская ул., 13А. Приходите потрогать рельеф и выбрать цвет слоёв. По Петербургу и в Москву отправляем транспортной компанией.
-
-📞 Звоните или пишите в чат: ответим и посчитаем расход под вашу стену.]]></Description>
-    <Images><Image url="https://vediota-coder.github.io/mavens-avito/listings/05_kamen_spb/slides/01_cover_kg.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/05_kamen_spb/slides/02_living.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/05_kamen_spb/slides/03_object.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/05_kamen_spb/slides/04_macro.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/05_kamen_spb/slides/05_pack.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/05_kamen_spb/slides/06_bedroom.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/05_kamen_spb/slides/07_tints.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/05_kamen_spb/slides/08_vs_stone.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/05_kamen_spb/slides/09_system.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/05_kamen_spb/slides/10_living2.jpg"/></Images>
-    <Category>Ремонт и строительство</Category>
-    <GoodsType>Стройматериалы</GoodsType>
-    <GoodsSubType>Строительные смеси</GoodsSubType>
-    <MixesType>Штукатурка</MixesType>
-    <AdType>Товар от производителя</AdType>
-    <Condition>Новое</Condition>
-    <Availability>В наличии</Availability>
-    <Brand>Mavens</Brand>
-    <Series>Elastico</Series>
-    <Decorative>Да</Decorative>
-    <MixBase>Акриловая</MixBase>
-    <OutdoorUsage>Да</OutdoorUsage>
-    <PriceType>Килограммы</PriceType>
-    <Weight>1 кг</Weight>
-    <Price>1234</Price>
-    <MinSaleQuantity>15</MinSaleQuantity>
-    <Address>Санкт-Петербург, Уральская ул., 13А</Address>
-    <Delivery><Option>Выключена</Option></Delivery>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <VideoURL>https://rutube.ru/video/430dda085a93e809910076718cc5bb68/</VideoURL>
-  </Ad>
-  <Ad>
     <Id>B5-spb</Id>
-    <Title>Малярные работы: стены без обоев и покраски</Title>
-    <Description><![CDATA[🎁 Собрались шпаклевать и красить стены или клеить обои? Бесплатно посчитаем, во что обойдётся декоративное покрытие вместо них. Пришлите в чат фото стен и площадь: ответим в течение дня.
+    <Title>Декоративная штукатурка. Продажа и нанесение</Title>
+    <Description><![CDATA[🎁 Декоративная штукатурка от производителя: продаём материал и наносим под ключ, материал и работа из одних рук. Пришлите в чат фото стен и площадь: бесплатно посчитаем смету в течение дня.
 
-🏭 Мы MAVENS, производитель декоративных покрытий в Санкт-Петербурге. Наносим свою штукатурку Mavens Elastico под ключ: материал с нашего производства и работа наших мастеров из одних рук.
+🏭 Мы MAVENS, производитель декоративных покрытий в Санкт-Петербурге. Наносим свою штукатурку Mavens Elastico: гарантия на материал 10 лет, на работу 2 года.
 
 🧰 Проще, чем под покраску
 Под покраску стену готовят до 15 операций: шпаклёвка в несколько слоёв, шлифовка, стеклохолст, грунт, покраска в два слоя. Elastico наносим прямо по черновой штукатурке в 3 этапа: грунт, подложка, фактура в два слоя. Условие: прочное и сухое основание.
@@ -157,9 +158,13 @@
     <Images><Image url="https://vediota-coder.github.io/mavens-avito/listings/12_malyarnye_spb/slides/01_cover.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/12_malyarnye_spb/slides/02_vs_paint.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/12_malyarnye_spb/slides/03_object.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/12_malyarnye_spb/slides/04_junctions.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/12_malyarnye_spb/slides/05_macro.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/12_malyarnye_spb/slides/06_steps.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/12_malyarnye_spb/slides/07_showroom.jpg"/></Images>
     <Category>Предложение услуг</Category>
     <ServiceType>Ремонт и отделка</ServiceType>
-    <ServiceSubtype>Поклейка обоев и малярные работы</ServiceSubtype>
+    <ServiceSubtype>Штукатурные работы</ServiceSubtype>
     <Price>1200</Price>
-    <TypesOfWork><Option>Покраска поверхностей</Option></TypesOfWork>
+    <PlasterObject><Option>Стены</Option></PlasterObject>
+    <MainWork><Option>Финишные декоративные</Option></MainWork>
+    <TypeOfApplication><Option>Ручное нанесение</Option><Option>Механизированное нанесение</Option></TypeOfApplication>
+    <Payment><Option>Поэтапная оплата</Option></Payment>
+    <WorkWithContract>Да</WorkWithContract>
     <WorkExperience>10 лет и больше</WorkExperience>
     <TeamSize>5-20 человек</TeamSize>
     <Guarantee>Есть</Guarantee>
