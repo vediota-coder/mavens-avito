@@ -158,13 +158,9 @@
     <Images><Image url="https://vediota-coder.github.io/mavens-avito/listings/12_malyarnye_spb/slides/01_cover.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/12_malyarnye_spb/slides/02_vs_paint.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/12_malyarnye_spb/slides/03_object.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/12_malyarnye_spb/slides/04_junctions.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/12_malyarnye_spb/slides/05_macro.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/12_malyarnye_spb/slides/06_steps.jpg"/><Image url="https://vediota-coder.github.io/mavens-avito/listings/12_malyarnye_spb/slides/07_showroom.jpg"/></Images>
     <Category>Предложение услуг</Category>
     <ServiceType>Ремонт и отделка</ServiceType>
-    <ServiceSubtype>Штукатурные работы</ServiceSubtype>
+    <ServiceSubtype>Поклейка обоев и малярные работы</ServiceSubtype>
     <Price>1200</Price>
-    <PlasterObject><Option>Стены</Option></PlasterObject>
-    <MainWork><Option>Финишные декоративные</Option></MainWork>
-    <TypeOfApplication><Option>Ручное нанесение</Option><Option>Механизированное нанесение</Option></TypeOfApplication>
-    <Payment><Option>Поэтапная оплата</Option></Payment>
-    <WorkWithContract>Да</WorkWithContract>
+    <TypesOfWork><Option>Покраска поверхностей</Option></TypesOfWork>
     <WorkExperience>10 лет и больше</WorkExperience>
     <TeamSize>5-20 человек</TeamSize>
     <Guarantee>Есть</Guarantee>
